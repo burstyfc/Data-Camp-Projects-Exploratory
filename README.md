@@ -1,1 +1,15 @@
 # Data Camp Projects Exploratory 
+
+This repository contains the completed projects at Data Camp. They provide considerable real-world datasets and are helpful to sharpen skills in solving data-centric problems. 
+
+
+## Index
+1. Do Left-handed People Really Die Young
+2. Exploring 67 years of LEGO
+3. Generating Keywords for Google Ads
+4. Name Game_ Gender Prediction using Sound
+5. The GitHub History of the Scala Language
+6. The Hottest Topics in Machine Learning
+7. TV, Halftime Shows, and the Big Game
+
+## This repository will get updated constantly as more projects are solved.
