@@ -1,9 +1,9 @@
 # Data Camp Projects Exploratory 
 
-This repository contains the completed projects at Data Camp. They provide considerable real-world datasets and are helpful to sharpen skills in solving data-centric problems. 
+This repository contains the projects solved at Data Camp. They provide experience dealing with real-world datasets and are helpful to sharpen skills in solving data-centric problems. 
 
 
-## Index
+## Project Index
 1. Do Left-handed People Really Die Young
 2. Exploring 67 years of LEGO
 3. Generating Keywords for Google Ads
