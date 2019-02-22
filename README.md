@@ -4,15 +4,15 @@ This repository contains the projects solved at Data Camp. They provide experien
 
 
 ## Project Index
-. Classify Song Genres from Audio Data
-. Do Left-handed People Really Die Young
-. Exploring 67 years of LEGO
-. Generating Keywords for Google Ads
-. Name Game_ Gender Prediction using Sound
-. Predicting Credit Card Approvals
-. Reducing Traffic Mortality in the USA
-. The GitHub History of the Scala Language
-. The Hottest Topics in Machine Learning
-. TV, Halftime Shows, and the Big Game
+1. Classify Song Genres from Audio Data
+2. Do Left-handed People Really Die Young
+3. Exploring 67 years of LEGO
+4. Generating Keywords for Google Ads
+5. Name Game_ Gender Prediction using Sound
+6. Predicting Credit Card Approvals
+7. Reducing Traffic Mortality in the USA
+8. The GitHub History of the Scala Language
+9. The Hottest Topics in Machine Learning
+10. TV, Halftime Shows, and the Big Game
 
 ## This repository will get updated constantly as more projects are solved.
